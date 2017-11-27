@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<roles>
+	<role name = "admin">
+		<command>ping</command>
+		<command>roll</command>
+		<command>joke</command>
+		<command>createtextchannel</command>
+		<command>playtroll</command>
+	</role>
+	<role name = "admin2">
+		<command>ping</command>
+	</role>
+	<role name = "admin3">
+		<command>ping</command>
+	</role>
+	<role name = "admin4">
+		<command>ping</command>
+	</role>
+</roles>
